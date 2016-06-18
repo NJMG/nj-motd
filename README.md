@@ -1,7 +1,7 @@
 nj-motd
 ====
 
-#### Funny Message of the Day with gradient colors #### 
+#### Funny Message of the Day with gradient colors ####
 
 <p align="center">
   <img src="https://github.com/NJMG/nj-motd/blob/master/nj-motd.png?raw=true"/>
